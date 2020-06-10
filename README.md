@@ -10,7 +10,7 @@ Main Features:
 - Google Tasks
 
 Todo:
-
+- [ ] Show Some headlines
 - [ ] Google Auth Flow
 - [ ] Top of the inbox
 - [ ] Tasks
