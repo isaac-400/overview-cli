@@ -20,4 +20,12 @@ def get_top_news(n):
     return headlines
 
 
+def glance():
+    print("Here are the top stories of the day:")
+    stories = get_top_news(5)
+    for line in stories.keys():
+        print(line)
+
+if __name__ == "__main__":
+    glance()
 
